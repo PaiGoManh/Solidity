@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"hw.sol": "Hellowo"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"hw.sol": {
+			"keccak256": "0x198d2e0647bbd6824bcb8245291ea1ddc04ff7eea0dea0bc7c91501db4cff34c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cf1d0bf3d98e21c638e26d8088118c8e2939be0c60b0ea48923457609e2d8988",
+				"dweb:/ipfs/QmUobKVb8U7JX3VaPq9nfHVjkXN1TQaUVMY8za8asC1CqZ"
+			]
+		}
+	},
+	"version": 1
+}
