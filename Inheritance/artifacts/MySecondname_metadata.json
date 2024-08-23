@@ -97,7 +97,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Inheritance/name.sol": "MySecondname"
+			"Inheritance/samecontract.sol": "MySecondname"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -111,7 +111,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"Inheritance/name.sol": {
+		"Inheritance/samecontract.sol": {
 			"keccak256": "0x95a77b279f1116353e8134f12f647b2f570c9f8073e0341c0bbccab4a44cf2aa",
 			"license": "MIT",
 			"urls": [
