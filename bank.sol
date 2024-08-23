@@ -48,5 +48,13 @@ contract BankContract{
         }
         return (maxAddress,maxBalance);
     }
+
+    function deleteAccount() public {
+        
+    }
+
+
+
+
     
 }

@@ -76,6 +76,13 @@
 			},
 			{
 				"inputs": [],
+				"name": "deleteAccount",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "deposit",
 				"outputs": [],
 				"stateMutability": "payable",
@@ -159,11 +166,11 @@
 	},
 	"sources": {
 		"bank.sol": {
-			"keccak256": "0x4cb86fe0e897de92b9c1619ff5d5b09452718429e5b6f75505a1b8a5a9f70548",
+			"keccak256": "0xd2149ad2c086e7c7a502b4758f651fa65421c3d282429c0af0c4facebe4fd8e0",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://65b69e1d596cc2bc6b227f9aa649112d11d5d562e727c1032740620b195a265b",
-				"dweb:/ipfs/QmR2gCD9cqErE8Txig9XShu5ZYsf6HucYgSD1ApQsqfU4y"
+				"bzz-raw://b2ed9bc8c604930ef78c304227576eae4ec10359951b23b3c97831a112724859",
+				"dweb:/ipfs/QmXYzEZAAS1roNU2EvT8Ye4YMVKez2jqxvGd8CCRbVFFgU"
 			]
 		}
 	},
