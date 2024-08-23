@@ -49,7 +49,10 @@ contract BankContract{
         return (maxAddress,maxBalance);
     }
 
-    function deleteAccount() public {
+    function deleteAccount() public view {
+        if(balanceLedger[msg.sender]>0){
+
+        }
         
     }
 
