@@ -1,0 +1,171 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "Secondname",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "firstname",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getSecondname",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getfirstname",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "place",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_sname",
+						"type": "string"
+					}
+				],
+				"name": "setSecondname",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_fname",
+						"type": "string"
+					}
+				],
+				"name": "setfirstname",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Inheritance/differentcontract.sol": "Myplace"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Inheritance/differentcontract.sol": {
+			"keccak256": "0xce883947816aa24e7e9fdab12b8d9904645a21b00af94686dbabeefd05d8d447",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d41b71308a7fdfbea50f4845fdd85f91312a7bd5a844ac281e742c4c752f31c6",
+				"dweb:/ipfs/QmegoQjUfJJzZceRGuhoDxptirgtHyobn7Sg3gUQD6YArq"
+			]
+		},
+		"Inheritance/samecontract.sol": {
+			"keccak256": "0x95a77b279f1116353e8134f12f647b2f570c9f8073e0341c0bbccab4a44cf2aa",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cb3ee828e16608eb25dc0b6286f60e6096eae5788d1c5159059e26c1cf2899a4",
+				"dweb:/ipfs/QmXasKpR86hTqKRgKA4tj1tusc4xN1EdNFkujs8xVCMPvR"
+			]
+		}
+	},
+	"version": 1
+}
